@@ -14,7 +14,7 @@
  [["F1", "F2", "F3", "F4", "F5", "INSERT", "HOME", "UP", "PAGE_UP", ""],
   ["F6", "F7", "F8", "F9", "F10", "DELETE", "LEFT", "", "RIGHT", ""],
   ["F11", "F12", "", "", "", "ALT", "", "END", "DOWN", "PAGE_DOWN", ""],
-  ["", "", "GUI", "SHIFT", "BACKSPACE", "CTRL",
+  ["ESC", "TAB", "GUI", "SHIFT", "BACKSPACE", "CTRL",
    "SPACE", "FN", "", ["reset"], "ENTER"]]]
 
 /* softdvorak.json
